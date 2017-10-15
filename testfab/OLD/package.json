@@ -1,0 +1,20 @@
+{
+    "name": "nodesdk",
+    "version": "1.0.0",
+    "description": "Hyperledger Fabric SDK Sample Application",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "fabric-ca-client": "^1.0.1",
+        "fabric-client": "^1.0.1"
+    },
+    "author": "Robert Kleniewski",
+    "license": "Apache-2.0",
+    "keywords": [
+        "Hyperledger",
+        "Fabric",
+        "Sample",
+        "Application"
+    ]
+}
